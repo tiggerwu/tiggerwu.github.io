@@ -62,7 +62,7 @@ education:
     info:
       - degree: MSc in Automation
         university: Shanghai Jiao Tong University
-        time: 2021 - 2024
+        time: 2021 - present
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -170,46 +170,35 @@ oss:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: LTSP: long-term slice propagation for accurate airway segmentation
+        link: "https://www.researchgate.net/publication/359268879_LTSP_long-term_slice_propagation_for_accurate_airway_segmentation"
+        authors: Yangqian Wu, Minghui Zhang, et. al
+        conference: International Journal of Computer Assisted Radiology and Surgery
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: LTSP: long-term slice propagation for accurate airway segmentation
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Yangqian Wu, Minghui Zhang, et. al
+        conference: International Journal of Computer Assisted Radiology and Surgery
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Computer Vision
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Machine Learning
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Python
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: C & C++
+        level: 80%
+
+      - name: Java
         level: 60%
 
 footer: >
