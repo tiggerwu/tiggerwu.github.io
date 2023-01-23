@@ -120,15 +120,22 @@ publications:
     title: Publications
     intro: 
     papers:
-      - title: "LTSP: long-term slice propagation for accurate airway segmentation"
+      - title: "LTSP: long-term slice propagation for accurate airway segmentation (Best Bench-to-Bedside Paper Award)"
         link: "https://www.researchgate.net/publication/359268879_LTSP_long-term_slice_propagation_for_accurate_airway_segmentation"
         authors: Yangqian Wu, Minghui Zhang, et. al
-        conference: "International Conference on Information Processing in Computer-Assisted Interventions 2022 (Best Bench-to-Bedside Paper Award)"
+        conference: "International Conference on Information Processing in Computer-Assisted Interventions (IPCAI) 2022"
 
       - title: "LTSP: long-term slice propagation for accurate airway segmentation"
         link: "https://link.springer.com/article/10.1007/s11548-022-02582-7"
         authors: Yangqian Wu, Minghui Zhang, et. al
         conference: "International Journal of Computer Assisted Radiology and Surgery"
+      
+      - title: "CDFI: Cross Domain Feature Interaction for Robust Bronchi Lumen Detection"
+        link: ""
+        authors: Jiasheng Xu, Tianyi Zhang, Yangqian Wu, et. al
+        conference: "International Conference on Robotics and Automation (ICRA) 2023"
+
+      
 
 skills:
     title: Skills &amp; Proficiency
