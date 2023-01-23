@@ -30,22 +30,19 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Chinese
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Badminton
           link:
 
-        - item: Snowboarding
+        - item: Running
           link:
 
         - item: Cooking
