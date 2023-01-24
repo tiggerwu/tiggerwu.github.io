@@ -97,8 +97,6 @@ experiences:
 #         link: "#hook"
 #         tagline: "Research on human airway segmentation algorithms from CT scans. Use 3D U-net as the baseline and propose a Long-term slice propagation method to exploite the slice continuity information."
 
-
-
 # oss:
 #     title: OSS Contributions
 #     intro: >
