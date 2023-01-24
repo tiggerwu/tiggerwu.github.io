@@ -53,6 +53,7 @@ career-profile:
     summary: |
       Yangqian Wu received his B.S. in Automation in 2021 from Shanghai Jiao Tong University. 
       He is currently pursuing his M.S. in the Department of Automation and the Institute of Medical Robotics, Shanghai Jiao Tong University.
+      His researching field is medical imaging analysis, computer vision, and machine learning.
 
 education:
     title: Education
@@ -66,32 +67,32 @@ education:
         time: 2017 - 2021
         details: |
 
-experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+# experiences:
+#     title: Experiences
+#     info:
+#       - role: Lead Developer
+#         time: 2015 - Present
+#         company: Startup Hubs, San Francisco
+#         details: |
+#           Describe your role here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#           Cum sociis natoque penatibus et magnis dis parturient montes,
+#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#           pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#           enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#           error sit voluptatem accusantium doloremque laudantium, totam rem
+#           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#           architecto beatae vitae dicta sunt explicabo.
+#             - Bullet point
+#             - Bullet point
 
 projects:
     title: Projects
     intro: 
     assignments:
-      - title: Velocity
+      - title: Airway Segmentation Algorithms
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Research on human airway segmentation algorithms from CT scans. Use 3D U-net as the baseline and propose Long-term slice propagation method to exploite the slice continuity information."
 
 # oss:
 #     title: OSS Contributions
