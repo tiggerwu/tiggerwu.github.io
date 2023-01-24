@@ -75,7 +75,7 @@ experiences:
         company: Shanghai Jiao Tong University, Shanghai
         details: |
           Research on human airway segmentation algorithms from CT scans. 
-          Use 3D U-net as the baseline and propose a Long-term slice propagation method to exploite the slice continuity information. 
+          Use 3D U-net as the baseline and propose a Long-term slice propagation method to exploit the slice continuity information. 
           Conduct experiments to validate the effectiveness of the proposed method.
           Publish related papers in SCI journal and international conference.
             - Paper was accepted by IJCARS (SCI Journal) and IPCAI (Conference).
@@ -85,7 +85,7 @@ experiences:
         details: |
           Organize the Airway Tree Modeling Challenge (MICCAI 2022) together with the laboratory members.
           500 pulmonary CT scans is collected from multi-sites.
-          The chanllege encourages the participants to design robust algorithms for the complete airway tree extraction from CT scans.
+          The challege encourages the participants to design robust algorithms for the complete airway tree extraction from CT scans.
           Challenge paper is drafting now.
             - Challenge paper is now under drafting.
 
